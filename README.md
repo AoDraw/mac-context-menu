@@ -10,7 +10,7 @@ npm i mac-context-menu --save
 e.g.
 
 ```javascript
-import Menu from '../index'
+import Menu from 'mac-context-menu'
 
 const menu = new Menu()
 

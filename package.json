@@ -1,0 +1,22 @@
+{
+  "name": "mac-context-menu",
+  "version": "0.1.0",
+  "description": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AoDraw/mac-context-menu.git"
+  },
+  "keywords": [
+    "contextmenu"
+  ],
+  "author": "AoDraw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AoDraw/mac-context-menu/issues"
+  },
+  "homepage": "https://github.com/AoDraw/mac-context-menu#readme"
+}

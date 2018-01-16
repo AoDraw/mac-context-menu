@@ -1,6 +1,14 @@
 # mac-context-menu
 Context menu in JavaScript with ugly ui like mac context menu.
 
+![screenshot](https://aodraw.github.io/mac-context-menu/screenshot.png)
+
+```
+npm i mac-context-menu --save
+```
+
+e.g.
+
 ```javascript
 import Menu from '../index'
 
